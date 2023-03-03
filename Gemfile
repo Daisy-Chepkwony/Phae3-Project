@@ -14,6 +14,7 @@ gem 'require_all', '~> 3.0'
 
 gem 'puma', '~> 6.1'
 gem 'thin', '~> 1.8', '>= 1.8.1'
+gem "rack-cors", "~> 1.1"
 
 group :development do
     gem "pry"
