@@ -33,6 +33,9 @@ run three times for table of users,reviews and products.
  .You can check all the methods to use in the console by running rake -T
 
 
+ HERE IS THE FRONTEND LINK["https://github.com/Daisy-Chepkwony/Phase3-Project"]
+
+
 
 ## Functionality
 
