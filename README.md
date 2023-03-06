@@ -17,7 +17,6 @@ Here is UML access link ["https://dbdiagram.io/d/63fb413f296d97641d83c989"]
 To setup an environment:
 .Open the terminal
 
-.git clone ["https://github.com/Daisy-Chepkwony/Phae3-Project"]
 
 .Navigate to the project directory
 
